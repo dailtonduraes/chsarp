@@ -1,0 +1,13 @@
+E:\profissional\csharp\workspace_2019\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.exe
+E:\profissional\csharp\workspace_2019\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.deps.json
+E:\profissional\csharp\workspace_2019\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.runtimeconfig.json
+E:\profissional\csharp\workspace_2019\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.runtimeconfig.dev.json
+E:\profissional\csharp\workspace_2019\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.dll
+E:\profissional\csharp\workspace_2019\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.pdb
+E:\profissional\csharp\workspace_2019\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.csprojAssemblyReference.cache
+E:\profissional\csharp\workspace_2019\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.AssemblyInfoInputs.cache
+E:\profissional\csharp\workspace_2019\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.AssemblyInfo.cs
+E:\profissional\csharp\workspace_2019\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.csproj.CoreCompileInputs.cache
+E:\profissional\csharp\workspace_2019\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.dll
+E:\profissional\csharp\workspace_2019\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.pdb
+E:\profissional\csharp\workspace_2019\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.genruntimeconfig.cache

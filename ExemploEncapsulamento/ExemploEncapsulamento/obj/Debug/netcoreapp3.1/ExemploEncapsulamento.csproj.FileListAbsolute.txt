@@ -1,0 +1,13 @@
+E:\profissional\csharp\workspace_2019\ExemploEncapsulamento\ExemploEncapsulamento\bin\Debug\netcoreapp3.1\ExemploEncapsulamento.exe
+E:\profissional\csharp\workspace_2019\ExemploEncapsulamento\ExemploEncapsulamento\bin\Debug\netcoreapp3.1\ExemploEncapsulamento.deps.json
+E:\profissional\csharp\workspace_2019\ExemploEncapsulamento\ExemploEncapsulamento\bin\Debug\netcoreapp3.1\ExemploEncapsulamento.runtimeconfig.json
+E:\profissional\csharp\workspace_2019\ExemploEncapsulamento\ExemploEncapsulamento\bin\Debug\netcoreapp3.1\ExemploEncapsulamento.runtimeconfig.dev.json
+E:\profissional\csharp\workspace_2019\ExemploEncapsulamento\ExemploEncapsulamento\bin\Debug\netcoreapp3.1\ExemploEncapsulamento.dll
+E:\profissional\csharp\workspace_2019\ExemploEncapsulamento\ExemploEncapsulamento\bin\Debug\netcoreapp3.1\ExemploEncapsulamento.pdb
+E:\profissional\csharp\workspace_2019\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\netcoreapp3.1\ExemploEncapsulamento.csprojAssemblyReference.cache
+E:\profissional\csharp\workspace_2019\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\netcoreapp3.1\ExemploEncapsulamento.AssemblyInfoInputs.cache
+E:\profissional\csharp\workspace_2019\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\netcoreapp3.1\ExemploEncapsulamento.AssemblyInfo.cs
+E:\profissional\csharp\workspace_2019\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\netcoreapp3.1\ExemploEncapsulamento.csproj.CoreCompileInputs.cache
+E:\profissional\csharp\workspace_2019\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\netcoreapp3.1\ExemploEncapsulamento.dll
+E:\profissional\csharp\workspace_2019\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\netcoreapp3.1\ExemploEncapsulamento.pdb
+E:\profissional\csharp\workspace_2019\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\netcoreapp3.1\ExemploEncapsulamento.genruntimeconfig.cache

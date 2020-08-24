@@ -1,0 +1,13 @@
+E:\profissional\csharp\workspace_2019\StructsDados\StructsDados\bin\Debug\netcoreapp3.1\StructsDados.exe
+E:\profissional\csharp\workspace_2019\StructsDados\StructsDados\bin\Debug\netcoreapp3.1\StructsDados.deps.json
+E:\profissional\csharp\workspace_2019\StructsDados\StructsDados\bin\Debug\netcoreapp3.1\StructsDados.runtimeconfig.json
+E:\profissional\csharp\workspace_2019\StructsDados\StructsDados\bin\Debug\netcoreapp3.1\StructsDados.runtimeconfig.dev.json
+E:\profissional\csharp\workspace_2019\StructsDados\StructsDados\bin\Debug\netcoreapp3.1\StructsDados.dll
+E:\profissional\csharp\workspace_2019\StructsDados\StructsDados\bin\Debug\netcoreapp3.1\StructsDados.pdb
+E:\profissional\csharp\workspace_2019\StructsDados\StructsDados\obj\Debug\netcoreapp3.1\StructsDados.csprojAssemblyReference.cache
+E:\profissional\csharp\workspace_2019\StructsDados\StructsDados\obj\Debug\netcoreapp3.1\StructsDados.AssemblyInfoInputs.cache
+E:\profissional\csharp\workspace_2019\StructsDados\StructsDados\obj\Debug\netcoreapp3.1\StructsDados.AssemblyInfo.cs
+E:\profissional\csharp\workspace_2019\StructsDados\StructsDados\obj\Debug\netcoreapp3.1\StructsDados.csproj.CoreCompileInputs.cache
+E:\profissional\csharp\workspace_2019\StructsDados\StructsDados\obj\Debug\netcoreapp3.1\StructsDados.dll
+E:\profissional\csharp\workspace_2019\StructsDados\StructsDados\obj\Debug\netcoreapp3.1\StructsDados.pdb
+E:\profissional\csharp\workspace_2019\StructsDados\StructsDados\obj\Debug\netcoreapp3.1\StructsDados.genruntimeconfig.cache

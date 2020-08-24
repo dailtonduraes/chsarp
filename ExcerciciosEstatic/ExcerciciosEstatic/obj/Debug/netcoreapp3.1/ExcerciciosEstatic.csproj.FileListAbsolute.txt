@@ -1,0 +1,12 @@
+E:\profissional\csharp\workspace_2019\ExcerciciosEstatic\ExcerciciosEstatic\bin\Debug\netcoreapp3.1\ExcerciciosEstatic.exe
+E:\profissional\csharp\workspace_2019\ExcerciciosEstatic\ExcerciciosEstatic\bin\Debug\netcoreapp3.1\ExcerciciosEstatic.deps.json
+E:\profissional\csharp\workspace_2019\ExcerciciosEstatic\ExcerciciosEstatic\bin\Debug\netcoreapp3.1\ExcerciciosEstatic.runtimeconfig.json
+E:\profissional\csharp\workspace_2019\ExcerciciosEstatic\ExcerciciosEstatic\bin\Debug\netcoreapp3.1\ExcerciciosEstatic.runtimeconfig.dev.json
+E:\profissional\csharp\workspace_2019\ExcerciciosEstatic\ExcerciciosEstatic\bin\Debug\netcoreapp3.1\ExcerciciosEstatic.dll
+E:\profissional\csharp\workspace_2019\ExcerciciosEstatic\ExcerciciosEstatic\bin\Debug\netcoreapp3.1\ExcerciciosEstatic.pdb
+E:\profissional\csharp\workspace_2019\ExcerciciosEstatic\ExcerciciosEstatic\obj\Debug\netcoreapp3.1\ExcerciciosEstatic.AssemblyInfoInputs.cache
+E:\profissional\csharp\workspace_2019\ExcerciciosEstatic\ExcerciciosEstatic\obj\Debug\netcoreapp3.1\ExcerciciosEstatic.AssemblyInfo.cs
+E:\profissional\csharp\workspace_2019\ExcerciciosEstatic\ExcerciciosEstatic\obj\Debug\netcoreapp3.1\ExcerciciosEstatic.csproj.CoreCompileInputs.cache
+E:\profissional\csharp\workspace_2019\ExcerciciosEstatic\ExcerciciosEstatic\obj\Debug\netcoreapp3.1\ExcerciciosEstatic.dll
+E:\profissional\csharp\workspace_2019\ExcerciciosEstatic\ExcerciciosEstatic\obj\Debug\netcoreapp3.1\ExcerciciosEstatic.pdb
+E:\profissional\csharp\workspace_2019\ExcerciciosEstatic\ExcerciciosEstatic\obj\Debug\netcoreapp3.1\ExcerciciosEstatic.genruntimeconfig.cache

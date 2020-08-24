@@ -1,0 +1,13 @@
+E:\profissional\csharp\workspace_2019\TrabalhandoComOO\TrabalhandoComOO\bin\Debug\netcoreapp3.1\TrabalhandoComOO.exe
+E:\profissional\csharp\workspace_2019\TrabalhandoComOO\TrabalhandoComOO\bin\Debug\netcoreapp3.1\TrabalhandoComOO.deps.json
+E:\profissional\csharp\workspace_2019\TrabalhandoComOO\TrabalhandoComOO\bin\Debug\netcoreapp3.1\TrabalhandoComOO.runtimeconfig.json
+E:\profissional\csharp\workspace_2019\TrabalhandoComOO\TrabalhandoComOO\bin\Debug\netcoreapp3.1\TrabalhandoComOO.runtimeconfig.dev.json
+E:\profissional\csharp\workspace_2019\TrabalhandoComOO\TrabalhandoComOO\bin\Debug\netcoreapp3.1\TrabalhandoComOO.dll
+E:\profissional\csharp\workspace_2019\TrabalhandoComOO\TrabalhandoComOO\bin\Debug\netcoreapp3.1\TrabalhandoComOO.pdb
+E:\profissional\csharp\workspace_2019\TrabalhandoComOO\TrabalhandoComOO\obj\Debug\netcoreapp3.1\TrabalhandoComOO.csprojAssemblyReference.cache
+E:\profissional\csharp\workspace_2019\TrabalhandoComOO\TrabalhandoComOO\obj\Debug\netcoreapp3.1\TrabalhandoComOO.AssemblyInfoInputs.cache
+E:\profissional\csharp\workspace_2019\TrabalhandoComOO\TrabalhandoComOO\obj\Debug\netcoreapp3.1\TrabalhandoComOO.AssemblyInfo.cs
+E:\profissional\csharp\workspace_2019\TrabalhandoComOO\TrabalhandoComOO\obj\Debug\netcoreapp3.1\TrabalhandoComOO.csproj.CoreCompileInputs.cache
+E:\profissional\csharp\workspace_2019\TrabalhandoComOO\TrabalhandoComOO\obj\Debug\netcoreapp3.1\TrabalhandoComOO.dll
+E:\profissional\csharp\workspace_2019\TrabalhandoComOO\TrabalhandoComOO\obj\Debug\netcoreapp3.1\TrabalhandoComOO.pdb
+E:\profissional\csharp\workspace_2019\TrabalhandoComOO\TrabalhandoComOO\obj\Debug\netcoreapp3.1\TrabalhandoComOO.genruntimeconfig.cache

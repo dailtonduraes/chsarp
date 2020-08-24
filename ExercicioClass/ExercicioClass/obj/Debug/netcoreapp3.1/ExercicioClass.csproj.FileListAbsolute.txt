@@ -1,0 +1,12 @@
+E:\profissional\csharp\workspace_2019\ExercicioClass\ExercicioClass\bin\Debug\netcoreapp3.1\ExercicioClass.exe
+E:\profissional\csharp\workspace_2019\ExercicioClass\ExercicioClass\bin\Debug\netcoreapp3.1\ExercicioClass.deps.json
+E:\profissional\csharp\workspace_2019\ExercicioClass\ExercicioClass\bin\Debug\netcoreapp3.1\ExercicioClass.runtimeconfig.json
+E:\profissional\csharp\workspace_2019\ExercicioClass\ExercicioClass\bin\Debug\netcoreapp3.1\ExercicioClass.runtimeconfig.dev.json
+E:\profissional\csharp\workspace_2019\ExercicioClass\ExercicioClass\bin\Debug\netcoreapp3.1\ExercicioClass.dll
+E:\profissional\csharp\workspace_2019\ExercicioClass\ExercicioClass\bin\Debug\netcoreapp3.1\ExercicioClass.pdb
+E:\profissional\csharp\workspace_2019\ExercicioClass\ExercicioClass\obj\Debug\netcoreapp3.1\ExercicioClass.AssemblyInfoInputs.cache
+E:\profissional\csharp\workspace_2019\ExercicioClass\ExercicioClass\obj\Debug\netcoreapp3.1\ExercicioClass.AssemblyInfo.cs
+E:\profissional\csharp\workspace_2019\ExercicioClass\ExercicioClass\obj\Debug\netcoreapp3.1\ExercicioClass.csproj.CoreCompileInputs.cache
+E:\profissional\csharp\workspace_2019\ExercicioClass\ExercicioClass\obj\Debug\netcoreapp3.1\ExercicioClass.dll
+E:\profissional\csharp\workspace_2019\ExercicioClass\ExercicioClass\obj\Debug\netcoreapp3.1\ExercicioClass.pdb
+E:\profissional\csharp\workspace_2019\ExercicioClass\ExercicioClass\obj\Debug\netcoreapp3.1\ExercicioClass.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\profissional\csharp\workspace_2019\OOExemplo03\OOExemplo03\bin\Debug\netcoreapp3.1\OOExemplo03.exe
+E:\profissional\csharp\workspace_2019\OOExemplo03\OOExemplo03\bin\Debug\netcoreapp3.1\OOExemplo03.deps.json
+E:\profissional\csharp\workspace_2019\OOExemplo03\OOExemplo03\bin\Debug\netcoreapp3.1\OOExemplo03.runtimeconfig.json
+E:\profissional\csharp\workspace_2019\OOExemplo03\OOExemplo03\bin\Debug\netcoreapp3.1\OOExemplo03.runtimeconfig.dev.json
+E:\profissional\csharp\workspace_2019\OOExemplo03\OOExemplo03\bin\Debug\netcoreapp3.1\OOExemplo03.dll
+E:\profissional\csharp\workspace_2019\OOExemplo03\OOExemplo03\bin\Debug\netcoreapp3.1\OOExemplo03.pdb
+E:\profissional\csharp\workspace_2019\OOExemplo03\OOExemplo03\obj\Debug\netcoreapp3.1\OOExemplo03.csprojAssemblyReference.cache
+E:\profissional\csharp\workspace_2019\OOExemplo03\OOExemplo03\obj\Debug\netcoreapp3.1\OOExemplo03.AssemblyInfoInputs.cache
+E:\profissional\csharp\workspace_2019\OOExemplo03\OOExemplo03\obj\Debug\netcoreapp3.1\OOExemplo03.AssemblyInfo.cs
+E:\profissional\csharp\workspace_2019\OOExemplo03\OOExemplo03\obj\Debug\netcoreapp3.1\OOExemplo03.csproj.CoreCompileInputs.cache
+E:\profissional\csharp\workspace_2019\OOExemplo03\OOExemplo03\obj\Debug\netcoreapp3.1\OOExemplo03.dll
+E:\profissional\csharp\workspace_2019\OOExemplo03\OOExemplo03\obj\Debug\netcoreapp3.1\OOExemplo03.pdb
+E:\profissional\csharp\workspace_2019\OOExemplo03\OOExemplo03\obj\Debug\netcoreapp3.1\OOExemplo03.genruntimeconfig.cache

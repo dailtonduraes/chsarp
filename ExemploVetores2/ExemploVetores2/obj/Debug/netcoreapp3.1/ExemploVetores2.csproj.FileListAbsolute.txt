@@ -1,0 +1,13 @@
+E:\profissional\csharp\workspace_2019\ExemploVetores2\ExemploVetores2\bin\Debug\netcoreapp3.1\ExemploVetores2.exe
+E:\profissional\csharp\workspace_2019\ExemploVetores2\ExemploVetores2\bin\Debug\netcoreapp3.1\ExemploVetores2.deps.json
+E:\profissional\csharp\workspace_2019\ExemploVetores2\ExemploVetores2\bin\Debug\netcoreapp3.1\ExemploVetores2.runtimeconfig.json
+E:\profissional\csharp\workspace_2019\ExemploVetores2\ExemploVetores2\bin\Debug\netcoreapp3.1\ExemploVetores2.runtimeconfig.dev.json
+E:\profissional\csharp\workspace_2019\ExemploVetores2\ExemploVetores2\bin\Debug\netcoreapp3.1\ExemploVetores2.dll
+E:\profissional\csharp\workspace_2019\ExemploVetores2\ExemploVetores2\bin\Debug\netcoreapp3.1\ExemploVetores2.pdb
+E:\profissional\csharp\workspace_2019\ExemploVetores2\ExemploVetores2\obj\Debug\netcoreapp3.1\ExemploVetores2.csprojAssemblyReference.cache
+E:\profissional\csharp\workspace_2019\ExemploVetores2\ExemploVetores2\obj\Debug\netcoreapp3.1\ExemploVetores2.AssemblyInfoInputs.cache
+E:\profissional\csharp\workspace_2019\ExemploVetores2\ExemploVetores2\obj\Debug\netcoreapp3.1\ExemploVetores2.AssemblyInfo.cs
+E:\profissional\csharp\workspace_2019\ExemploVetores2\ExemploVetores2\obj\Debug\netcoreapp3.1\ExemploVetores2.csproj.CoreCompileInputs.cache
+E:\profissional\csharp\workspace_2019\ExemploVetores2\ExemploVetores2\obj\Debug\netcoreapp3.1\ExemploVetores2.dll
+E:\profissional\csharp\workspace_2019\ExemploVetores2\ExemploVetores2\obj\Debug\netcoreapp3.1\ExemploVetores2.pdb
+E:\profissional\csharp\workspace_2019\ExemploVetores2\ExemploVetores2\obj\Debug\netcoreapp3.1\ExemploVetores2.genruntimeconfig.cache

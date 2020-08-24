@@ -1,0 +1,12 @@
+E:\profissional\csharp\workspace_2019\ModificadorParam\ModificadorParam\bin\Debug\netcoreapp3.1\ModificadorParam.exe
+E:\profissional\csharp\workspace_2019\ModificadorParam\ModificadorParam\bin\Debug\netcoreapp3.1\ModificadorParam.deps.json
+E:\profissional\csharp\workspace_2019\ModificadorParam\ModificadorParam\bin\Debug\netcoreapp3.1\ModificadorParam.runtimeconfig.json
+E:\profissional\csharp\workspace_2019\ModificadorParam\ModificadorParam\bin\Debug\netcoreapp3.1\ModificadorParam.runtimeconfig.dev.json
+E:\profissional\csharp\workspace_2019\ModificadorParam\ModificadorParam\bin\Debug\netcoreapp3.1\ModificadorParam.dll
+E:\profissional\csharp\workspace_2019\ModificadorParam\ModificadorParam\bin\Debug\netcoreapp3.1\ModificadorParam.pdb
+E:\profissional\csharp\workspace_2019\ModificadorParam\ModificadorParam\obj\Debug\netcoreapp3.1\ModificadorParam.AssemblyInfoInputs.cache
+E:\profissional\csharp\workspace_2019\ModificadorParam\ModificadorParam\obj\Debug\netcoreapp3.1\ModificadorParam.AssemblyInfo.cs
+E:\profissional\csharp\workspace_2019\ModificadorParam\ModificadorParam\obj\Debug\netcoreapp3.1\ModificadorParam.csproj.CoreCompileInputs.cache
+E:\profissional\csharp\workspace_2019\ModificadorParam\ModificadorParam\obj\Debug\netcoreapp3.1\ModificadorParam.dll
+E:\profissional\csharp\workspace_2019\ModificadorParam\ModificadorParam\obj\Debug\netcoreapp3.1\ModificadorParam.pdb
+E:\profissional\csharp\workspace_2019\ModificadorParam\ModificadorParam\obj\Debug\netcoreapp3.1\ModificadorParam.genruntimeconfig.cache

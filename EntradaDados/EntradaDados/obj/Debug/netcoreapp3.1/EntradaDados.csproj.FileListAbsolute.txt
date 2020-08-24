@@ -1,0 +1,13 @@
+E:\profissional\csharp\workspace_2019\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.exe
+E:\profissional\csharp\workspace_2019\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.deps.json
+E:\profissional\csharp\workspace_2019\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.runtimeconfig.json
+E:\profissional\csharp\workspace_2019\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.runtimeconfig.dev.json
+E:\profissional\csharp\workspace_2019\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.dll
+E:\profissional\csharp\workspace_2019\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.pdb
+E:\profissional\csharp\workspace_2019\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.csprojAssemblyReference.cache
+E:\profissional\csharp\workspace_2019\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.AssemblyInfoInputs.cache
+E:\profissional\csharp\workspace_2019\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.AssemblyInfo.cs
+E:\profissional\csharp\workspace_2019\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.csproj.CoreCompileInputs.cache
+E:\profissional\csharp\workspace_2019\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.dll
+E:\profissional\csharp\workspace_2019\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.pdb
+E:\profissional\csharp\workspace_2019\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.genruntimeconfig.cache
