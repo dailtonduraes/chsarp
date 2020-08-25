@@ -1,0 +1,13 @@
+E:\profissional\csharp\workspace_2019\Composition2\Composition2\bin\Debug\netcoreapp3.1\Composition2.exe
+E:\profissional\csharp\workspace_2019\Composition2\Composition2\bin\Debug\netcoreapp3.1\Composition2.deps.json
+E:\profissional\csharp\workspace_2019\Composition2\Composition2\bin\Debug\netcoreapp3.1\Composition2.runtimeconfig.json
+E:\profissional\csharp\workspace_2019\Composition2\Composition2\bin\Debug\netcoreapp3.1\Composition2.runtimeconfig.dev.json
+E:\profissional\csharp\workspace_2019\Composition2\Composition2\bin\Debug\netcoreapp3.1\Composition2.dll
+E:\profissional\csharp\workspace_2019\Composition2\Composition2\bin\Debug\netcoreapp3.1\Composition2.pdb
+E:\profissional\csharp\workspace_2019\Composition2\Composition2\obj\Debug\netcoreapp3.1\Composition2.csprojAssemblyReference.cache
+E:\profissional\csharp\workspace_2019\Composition2\Composition2\obj\Debug\netcoreapp3.1\Composition2.AssemblyInfoInputs.cache
+E:\profissional\csharp\workspace_2019\Composition2\Composition2\obj\Debug\netcoreapp3.1\Composition2.AssemblyInfo.cs
+E:\profissional\csharp\workspace_2019\Composition2\Composition2\obj\Debug\netcoreapp3.1\Composition2.csproj.CoreCompileInputs.cache
+E:\profissional\csharp\workspace_2019\Composition2\Composition2\obj\Debug\netcoreapp3.1\Composition2.dll
+E:\profissional\csharp\workspace_2019\Composition2\Composition2\obj\Debug\netcoreapp3.1\Composition2.pdb
+E:\profissional\csharp\workspace_2019\Composition2\Composition2\obj\Debug\netcoreapp3.1\Composition2.genruntimeconfig.cache
