@@ -1,0 +1,13 @@
+E:\profissional\csharp\workspace_2019\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.exe
+E:\profissional\csharp\workspace_2019\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.deps.json
+E:\profissional\csharp\workspace_2019\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.runtimeconfig.json
+E:\profissional\csharp\workspace_2019\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.runtimeconfig.dev.json
+E:\profissional\csharp\workspace_2019\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.dll
+E:\profissional\csharp\workspace_2019\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.pdb
+E:\profissional\csharp\workspace_2019\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.csprojAssemblyReference.cache
+E:\profissional\csharp\workspace_2019\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.AssemblyInfoInputs.cache
+E:\profissional\csharp\workspace_2019\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.AssemblyInfo.cs
+E:\profissional\csharp\workspace_2019\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.csproj.CoreCompileInputs.cache
+E:\profissional\csharp\workspace_2019\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.dll
+E:\profissional\csharp\workspace_2019\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.pdb
+E:\profissional\csharp\workspace_2019\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.genruntimeconfig.cache

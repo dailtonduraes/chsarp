@@ -16,13 +16,13 @@ namespace Polimorfismo
             for (int i = 1; i <= n; i++)
             {
                 Console.WriteLine($"Employee #{i} data");
-                Console.Write("Outsourced (y/n)?");
+                Console.Write("Outsourced (y/n)? ");
                 char decision = char.Parse(Console.ReadLine());
-                Console.Write("Name");
+                Console.Write("Name: ");
                 string name = Console.ReadLine();
                 Console.Write("Hours: ");
                 int  hours = int.Parse(Console.ReadLine());
-                Console.Write("Value per hour");
+                Console.Write("Value per hour: ");
                 double valuePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 if (decision == 'Y' || decision == 'y')
                 {
@@ -37,6 +37,11 @@ namespace Polimorfismo
             }
             Console.WriteLine();
             Console.WriteLine("Payments");
+
+            foreach(Employee emp in list)
+            {
+                Console.WriteLine(emp.Name + " - " + emp.Payment().ToString("F2", CultureInfo.InvariantCulture));
+            }
         }
     }
 }
